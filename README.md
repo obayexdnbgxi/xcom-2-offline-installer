@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+XCOM 2 is the sequel to XCOM: Enemy Unknown, the 2012 award-winning strategy game of the year. Earth has changed and is now under alien rule. Facing impossible odds you must rebuild XCOM, and ignite a global resistance to reclaim our world and save humanity.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,15 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | macOS 10.13.6 |
+| **Processor** | Min: Intel Core 2 Duo E4700 2.6 GHz or AMD Phenom 9950 Quad … / Rec: 3GHz Quad Core | 2.5GHz Intel Core i5 or greater |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 8 GB RAM |
+| **Graphics** | Min: 1GB ATI Radeon HD 5770, 1GB NVIDIA GeForce GTX 460 or b… / Rec: 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or b… | 1GB AMD 5750, Nvidia 650M, 1.5GB Intel Iris Pro 6200 (S… |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 45 GB available space | 45 GB available space |
+| **OS *** | Windows® 7, 64-bit | Windows® 7, 64-bit |
+| **Sound Card** | DirectX compatible sound card | DirectX compatible sound card |
+| **Additional Notes** | Initial installation requires one-time Internet connect… | Initial installation requires one-time Internet connect… |
 
 ---
 
